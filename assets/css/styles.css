@@ -3,7 +3,11 @@
     padding: 0,25%;
 }
 
-.titulo {
-    color: #a35803;
+body {
+   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5h4sOkpXtNdsqRK3BtpwLolvR82dq4cZnbKzCEkh17A&s); 
+ 
+}
 
+.titulo{
+    background-color: rgb(211, 215, 224);
 }
